@@ -7,12 +7,12 @@ Here's a sample (link unavailable) file for your Skype for Business removal scri
 
 *Table of Contents*
 
-1. #overview
-2. #requirements
-3. #usage
-4. #features
-5. #known-issues
-6. #license
+1. overview
+2. requirements
+3. usage
+4. features
+5. known-issues
+6. license
 
 *Overview*
 
@@ -52,16 +52,9 @@ Pull requests and issues are welcome!
 
 *Author*
 
-[Your Name]
+# Santhosh Kumar Rajamani Kephalian 
 
 *Version History*
 
 - v1.0: Initial release
 
-*Download*
-
-(link unavailable)
-
-Replace `your-username` with your actual GitHub username.
-
-Feel free to modify and expand this README to better suit your needs!
